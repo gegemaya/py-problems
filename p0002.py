@@ -1,3 +1,4 @@
+# Should work but takes too long
 def fibonnaci():
     terms = [1,2]
     n = 0
@@ -11,8 +12,6 @@ def fibonnaci():
     return sum
 
 print fibonnaci()
-
-# Should work but takes too long
 
 def p0002_fast(n):
     a, b = 0, 1
